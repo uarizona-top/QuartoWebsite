@@ -1,0 +1,5 @@
+---
+title: "Heat Resiliency in Arizona"
+---
+
+This is our welcome page! hopefully we could include links like we do in our figma here soon. For now, all the links are in the navigation bar.

@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "TOPS_Dashboard"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - DataAndFigures.qmd
+      - DatosYGraficos.qmd
+      - HelpAndResources.qmd
+      - AyudaYRecursos.qmd
+  links:
+    - icon: twitter
+      text: Testing
+      href: https://twitter.com
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+

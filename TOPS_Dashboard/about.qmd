@@ -1,0 +1,19 @@
+---
+title: "About"
+---
+
+Let's try and insert some bio information here (project description, team, etc)
+
+### Our Team
+
+![Bio about Chenchen](images/ChenChen.png){fig-align="left" width="350"}
+
+![Bio About salena](images/SalenaTorresAshton.png){fig-align="left" width="350"}
+
+![Bio about Alex](images/Alex.png){fig-align="left" width="350"}
+
+![Bio about Lia](images/LiaOssana.png){fig-align="left" width="350"}
+
+![Bio about Sarah](images/SarahYates.png){fig-align="left" width="350"}
+
+![Bio about Adriana](images/AdrianaPicoral.jpg){fig-align="left" width="350"}
